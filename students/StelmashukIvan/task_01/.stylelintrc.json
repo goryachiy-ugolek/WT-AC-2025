@@ -1,8 +1,0 @@
-{
-  "extends": "stylelint-config-standard",
-  "rules": {
-    "color-hex-length": "short",
-    "color-function-notation": "modern",
-    "alpha-value-notation": "percentage"
-  }
-}
